@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "OperatorMonoSSm";
+  src: url("./woff2/OperatorMonoSSm-Medium.woff2") format("woff2"),
+    url("./woff/OperatorMonoSSm-Medium.woff") format("woff");
+  font-display: swap;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "OperatorMonoSSm";
+  src: url("./woff2/OperatorMonoSSm-Bold.woff2") format("woff2"),
+    url("./woff/OperatorMonoSSm-Bold.woff") format("woff");
+  font-display: swap;
+  font-weight: 600;
+}
